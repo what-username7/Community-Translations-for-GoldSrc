@@ -1,0 +1,8 @@
+﻿Zaphod的房屋 - 营救人质
+设计：Zaphod Beeblebrox
+zaphod@mapcore.com
+
+反恐精英：拯救被囚禁在宅院中的
+三名人质。
+
+恐怖分子：防止反恐精英拯救人质。

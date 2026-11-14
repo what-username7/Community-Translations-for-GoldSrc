@@ -1,0 +1,12 @@
+﻿飞机跑道 - 拆除炸弹
+设计：Barney（又称narby）(narby@counter-strike.net)
+
+特别感谢Iikka Keranen、John Morello和Minh Le
+
+反恐精英：阻止恐怖分子
+在小型机场区里安放炸弹。
+
+恐怖分子：在小型机场里安置C4炸弹，
+并破坏存放燃料、货物的区域
+
+备注：此地图中总共有两处炸弹放置点。

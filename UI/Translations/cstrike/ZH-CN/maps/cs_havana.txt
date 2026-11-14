@@ -1,0 +1,12 @@
+﻿哈瓦那劫狱 - 营救人质
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+
+恐怖分子：你们在哈瓦那旧市街区（Habana Vieja）
+挟持了政治人质，正等着在游戏回合结束后，立刻搭
+上直升机逃离此地。
+
+反恐精英：你们已经掌控了周边地区，现在必须在恐
+怖分子逃离之前，拯救出所有幸存的人质。

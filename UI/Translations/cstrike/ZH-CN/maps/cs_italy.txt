@@ -1,0 +1,10 @@
+﻿意大利 - 营救人质
+地图设计：
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+材质／图形设计：
+DigiChaos (digichaos@hotsheep.com)
+
+反恐精英：在意大利城市里探索，从那些外国
+恐怖分子手中拯救出被挟持的人质。
+
+恐怖分子：防止反恐精英拯救人质或消灭恐怖分子。

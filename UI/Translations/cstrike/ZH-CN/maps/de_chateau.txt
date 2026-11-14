@@ -1,0 +1,12 @@
+﻿城堡 - 放置/拆除炸弹
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+恐怖分子：在古堡激战的失败后，Lord
+Williams开始重建他的避暑别墅。
+你必须阻止他的重制。在前院或后院
+安装C4炸药。
+
+反恐精英：保护Lord William的投资
+并阻止恐怖分子破坏他新家的行动。
